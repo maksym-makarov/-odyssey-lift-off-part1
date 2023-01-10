@@ -1,0 +1,11 @@
+{
+  "name": "odyssey-lift-off-part1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apollographql/odyssey-lift-off-part1",
+  "author": "Maksym Makarov <maksym.makarov@smartpension.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn --cwd server start & yarn --cwd client start"
+  }
+}
